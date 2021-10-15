@@ -1,4 +1,7 @@
-# UBI Center analysis template
+# UBI Lab Network's *Resilience UBI* in the UK
+
+[Draft document](https://docs.google.com/document/d/1HgWzwzl3NY0cA1UMFac9tHckJHE2zTKhOASsK0K7m9U)
+
 Template for UBI Center analyses, including GitHub Actions to merge into [ubicenter.org](http://ubicenter.org).
 
 Instructions:
@@ -15,3 +18,5 @@ In `website/`, there are two file:
 - `metadata.yml` should contain the post metadata, including authorship, title, cover image and other fields.
 
 On pushing changes to the repo, a fork of the `ubicenter.org` repo will be updated with the new post, under the branch with the same name as this repo. From there, a PR should be filed from the source repo `ubicenter-post-bot/repo-name` to `ubicenter/master`.
+
+
